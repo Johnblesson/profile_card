@@ -6,7 +6,7 @@
 body {
   color: #2b2c48;
   font-family: "Jost", sans-serif;
-  background-image: url(https://images.unsplash.com/photo-1566738780863-f9608f88f3a9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2378&q=80);
+  background-image: url(profile-picture-background-10tprnkqwqif4lyv.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -357,4 +357,8 @@ height: 7vh;
   font-weight: 500;
   font-family: "Jost", sans-serif;
   transition: 0.3s;
+}
+
+.contact-me:hover{
+  color: rgba(81, 106, 204, 0.8);
 }
